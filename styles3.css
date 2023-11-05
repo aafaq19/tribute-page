@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  color: #fff;
+  height: 70vh;
+  text-align: center;
+  font-size: 24px;
+  font-family: robboto;
+  padding: 50px;
+}
+
+main {
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.poem {
+  max-width: 1400px;
+  background-color: #040404;
+  padding: 20px;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid #ccc;
+  color: #fff;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0 0 20px;
+}
+
+.stanza {
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
